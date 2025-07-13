@@ -45,7 +45,7 @@ Um simples (porém poderoso 😎) carrinho de compras desenvolvido com React no 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/HericRibeiro/Shopping_Cart.git
 cd seu-repo
 ```
 
