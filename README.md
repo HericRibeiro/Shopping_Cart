@@ -10,7 +10,7 @@ Um simples (porém poderoso 😎) carrinho de compras desenvolvido com React no 
 
 ## 🎯 Demonstração
 
-<img src="https://user-images.githubusercontent.com/placeholder/carrinho-preview.png" alt="Preview do carrinho" width="600" />
+<img src="assets/ShoppingCart.png" alt="Preview do carrinho" width="600" />
 
 ---
 
