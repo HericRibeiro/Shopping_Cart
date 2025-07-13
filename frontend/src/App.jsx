@@ -34,7 +34,6 @@ function App() {
       .then(response => {
         if (!response.ok) {
           throw new Error("Saldo insuficiente ou produto inválido");
-          // throw new Error("Erro ao realizar a compra");
         }
         return response.json();
       })
